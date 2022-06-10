@@ -1,0 +1,7 @@
+cmd
+
+dir # list current directory
+cd directory_name # move forward - Dow + tab
+cd .. # move backward
+
+python file_name.py
